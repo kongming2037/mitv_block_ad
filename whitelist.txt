@@ -1,0 +1,16 @@
+# 米家IoT核心（电视控制智能家居）
+api.io.mi.com
+device.io.mi.com
+mqtt.io.mi.com
+# 小爱语音服务
+xiaoai.mi.com
+ai.xiaomi.com
+assistant.pandora.xiaomi.com
+# 账号登录、授权
+account.xiaomi.com
+passport.xiaomi.com
+sso.xiaomi.com
+# 系统升级、证书、基础联网
+update.miui.com
+otacdn.xiaomi.net
+cdn.otacdn.xiaomi.com
